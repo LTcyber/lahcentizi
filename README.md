@@ -17,7 +17,7 @@
 
 - [Google Cybersercurity Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/M9GLR4KCCDDK)
 - [ISC2 Cybersercurity Certificate]
-- [Google IT Support Certificate}(https://www.coursera.org/account/accomplishments/specialization/QVF76DE8DXYG)
+- [Google IT Support Certificate](https://www.coursera.org/account/accomplishments/specialization/QVF76DE8DXYG)
   
 <h2> 🤳 Connect with me:</h2>
 [linkedin]: https://linkedin.com/in/lahcen-tizi
