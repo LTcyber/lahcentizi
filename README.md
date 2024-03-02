@@ -11,8 +11,7 @@
     
 - <b>Datacom Cybersercurity Job Simulation on Forage</b>
   - [APT breach: Analysing the impact on infomation security](https://github.com/LTcyber/lahcentizi)
-  - [Cybersercurity Risk Assessment](https://github.com/LTcyber/lahcentizi)
-- <b>Datacom Cybersercurity Job Simulation on Forage</b>    
+  - [Cybersercurity Risk Assessment](https://github.com/LTcyber/lahcentizi)   
 
 <h2>Certifications</h2>
 
