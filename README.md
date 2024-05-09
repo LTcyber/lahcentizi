@@ -1,6 +1,4 @@
 <h1>Hello, I'm Lahcen! <br/>
-- <b>Active Directory Home Lab</b>
-  [Active Directory Home Lab](https://github.com/lahcentizi/LABURL)
 <h2>👨‍💻 Cybersercurity Projects:</h2>
 
 - <b>PwC Switzerland Cybersercurity Job Simulation on Forage</b>
