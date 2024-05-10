@@ -2,14 +2,14 @@
 <h2>👨‍💻 Cybersercurity Projects:</h2>
 
 - <b>PwC Switzerland Cybersercurity Job Simulation on Forage</b>
-  - [Integrated Information Defense](https://github.com/LTcyber/lahcentizi)
-  - [Risk Assessment](https://github.com/LTcyber/lahcentizi)
-  - [IT System Security Baseline](https://github.com/LTcyber/lahcentizi)
-  - [Netwok Segmentation](https://github.com/LTcyber/lahcentizi)
+  - [Integrated Information Defense](https://github.com/LTcyber/Cybersecurity-Projects)
+  - [Risk Assessment](https://github.com/LTcyber/Cybersecurity-Projects)
+  - [IT System Security Baseline](https://github.com/LTcyber/Cybersecurity-Projects)
+  - [Netwok Segmentation](https://github.com/LTcyber/Cybersecurity-Projects)
     
 - <b>Datacom Cybersercurity Job Simulation on Forage</b>
-  - [APT breach: Analysing the impact on infomation security](https://github.com/LTcyber/lahcentizi)
-  - [Cybersercurity Risk Assessment](https://github.com/LTcyber/lahcentizi)   
+  - [APT breach: Analysing the impact on infomation security](https://github.com/LTcyber/Cybersecurity-Projects)
+  - [Cybersercurity Risk Assessment](https://github.com/LTcyber/Cybersecurity-Projects)   
 
 <h2>Certifications</h2>
 
