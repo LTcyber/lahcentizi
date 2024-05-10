@@ -14,11 +14,11 @@
 <h2>Certifications</h2>
 
 - [Google Cybersercurity Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/M9GLR4KCCDDK)
-- [ISC2 Cybersercurity Certificate]
+- [ISC2 Cybersercurity Certificate](https://www.credly.com/badges/9f525571-d709-40ce-8687-61171674603e/public_url)
 - [Google IT Support Certificate](https://www.coursera.org/account/accomplishments/specialization/QVF76DE8DXYG)
   
 <h2> 🤳 Connect with me:</h2>
-[linkedin]: https://linkedin.com/in/lahcen-tizi
+[linkedin]: (https://linkedin.com/in/lahcen-tizi)
 
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about anything comes into in your mind.
